@@ -1,6 +1,7 @@
 # Ojas.AI
 
 Ojas.AI is a production-oriented AI diet planning platform for dietitians and patients.
+### deployed link https://ojasai.netlify.app/
 
 ## Tech Stack
 
